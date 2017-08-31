@@ -180,7 +180,7 @@ prétendre, comprend les biens qu'il possède, ce qui inclut certes la monnaie,
 mais aussi les biens qu'il pourra acheter avec sa monnaie, ainsi que la monnaie
 qu'il pourra récupérer en vendant ses biens.
 
-L'arbitrage que pourrait donc faire X dépend donc entièrement de ses choix
+L'arbitrage que pourrait faire X dépend donc entièrement de ses choix
 personnels quant à la quantité de monnaie qu'il compte inclure dans ses biens ou
 pas, les biens qu'il compte garder, vendre, ou acheter, et certainement pas
 uniquement de la quantité de monnaie qu'il possède. D'autant que dans une
