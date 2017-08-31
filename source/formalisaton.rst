@@ -181,7 +181,7 @@ ou encore un système monétaire privateur, *au moins* au sens de la première l
 et plus encore selon la quatrième liberté comme nous le verrons par la suite.
 
 Autre exemple : l'or. Nous pouvons parler de l'or comme d'un *candidat monétaire*
-ne respectant pas *au moins* la troisième liberté économique d'échange *« dans la monnaie »*,
+ne respectant pas *au moins* la quatrième liberté économique d'échange *« dans la monnaie »*,
 pour la raison simple - que nous développerons par la suite -
 qu'il n'est pas universellement accessible au sein d'une zone économique.
 Une telle « monnaie » qui force le retour au troc là où elle n'est pas présente,
