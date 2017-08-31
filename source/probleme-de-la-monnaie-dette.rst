@@ -105,7 +105,7 @@ privées appelle du même sigle monétaire ce qui est sa propre émission de
 marque, avec le même sigle, pour ce qui concerne l'émission de dettes au titre
 de la communauté politique. Imaginons-nous qu'une boisson puisse être nommée
 Coca-Cola en étant produite indifféremment par General Motors ou Pepsi Cola et
-que l'État lui-même utilise le sigle Cocal Cola pour émettre une autre boisson
+que l'État lui-même utilise le sigle Coca-Cola pour émettre une autre boisson
 encore et l'utilise comme référence pour assurer la comptabilité des échanges
 économiques. Quelle communauté politique accepterait cela ? C'est bien pourtant
 exactement ce que cette confusion a produit concernant la monnaie commune. Il ne
